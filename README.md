@@ -1,7 +1,9 @@
 ## Git 명령어
 
-### git init - 이제부터 git으로 버전관리 할거야!
-### git add (파일명) - 단일 파일의 변경사항 포함
+### git init - 
+이제부터 git으로 버전관리 할거야!
+### git add (파일명) - 
+단일 파일의 변경사항 포함
 ### git add . - 모든파일 변경사항 포함
 ### git commit -m "메시지" - 커밋 생성
 ### git clone (저장소주소) - 원격저장소(github) 복제
